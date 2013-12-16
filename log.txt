@@ -1,0 +1,11 @@
+Starting Report Files
+Starting to Load and Hash-Code Documents
+Loading \\psf\Home\Desktop\2010.txt
+Loading \\psf\Home\Desktop\2013.txt
+Done Loading Documents
+Starting to Compare Documents
+Comparing Documents, 1 Completed
+Match: 253	313	287	\\psf\Home\Desktop\2013.txt	\\psf\Home\Desktop\2010.txt
+Done Comparing Documents
+Finishing Report Files
+Done. Total CPU Time: 0,078 seconds
